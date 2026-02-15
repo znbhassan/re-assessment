@@ -49,4 +49,4 @@ https://www.figma.com/design/4VcBtrnwmoyu0jA4eu0IbD/re-assessment?node-id=0-1&t=
 - Codable: https://developer.apple.com/documentation/swift/codable
 
 ## Notes
-Replace the Figma link above and update sections if features change.
+
