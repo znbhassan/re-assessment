@@ -34,7 +34,7 @@ This repository contains two iOS projects:
 - Share task details using the system activity sheet
 
 ## Figma Prototype
-
+https://www.figma.com/design/4VcBtrnwmoyu0jA4eu0IbD/re-assessment?node-id=0-1&t=udH2PeBcmmwNXHHb-1
 
 ## External References
 - UIStackView: https://developer.apple.com/documentation/uikit/uistackview
